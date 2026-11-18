@@ -23,4 +23,4 @@
 - 📫 How to reach me :
 mail : t.a.p.pelletreau-duris@vu.nl
 
-- Personal website (in progress) : https://phd-nuxt.vercel.app/
+- Personal website (in progress) : https://www.tompelletreauduris.com
